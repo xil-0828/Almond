@@ -9,7 +9,7 @@ export default function WakaraseContent() {
       bg="white"
     >
       {/* タイトルのアクセントライン */}
-      <Box borderLeft="4px solid #FD90AC" pl={4} mb={4}>
+      <Box borderLeft="4px solid #ffc9d9ff" pl={4} mb={4}>
         <Heading size="lg" color="gray.800">
           メスガキわからせタップ
         </Heading>
