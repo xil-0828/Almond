@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import { games } from "@/app/data/games";
 import { notFound } from "next/navigation";
 
